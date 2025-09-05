@@ -25,6 +25,8 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/05] **On the Tool Manipulation Capability of Open-source Large Language Models.** *Qiantong Xu (SambaNova) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.16504.pdf)] [[project page](https://github.com/sambanova/toolbench)]
 - [2023/10] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.**  *Yujia Qin (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16789.pdf)] [[project page](https://github.com/OpenBMB/ToolBench)]
 - [2024/01] **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step.** *Zehui Chen (USTC) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14033.pdf)] [[project page](https://github.com/open-compass/T-Eval)]
+- [2025/05] **Terminal-Bench: A Benchmark for AI Agents in Terminal Environments.** *Mike Merill (Standford) et al.* [[project page](https://github.com/laude-institute/terminal-bench)]
+- [2025/08] **VimGolf-Gym: OpenAI Gym Style VimGolf Environment and Benchmark** *James Brown (Cybergod AGI Research)* [[project page](https://github.com/james4Ever0/vimgolf-gym)]
 
 ----------------------------
 
