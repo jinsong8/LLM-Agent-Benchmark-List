@@ -88,10 +88,12 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/11] **MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration.** *Lin Xu (NUS) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08562.pdf)] [[project page](https://github.com/cathyxl/MAgIC)]
 - [2023/12] **LLF-Bench: Benchmark for Interactive Learning from Language Feedback.** *Ching-An Cheng (Microsoft) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.06853.pdf)] [[project page](https://microsoft.github.io/LLF-Bench/)]
 - [2024/01] **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents.** *Chang Ma (The University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.13178)] [[project page](https://github.com/hkust-nlp/AgentBoard)]
-- [2025/03] **Benchmarking Agentic Workflow Generation.** *Shuofei Qiao (Zhejiang University) et al. ICLR.* [[paper](https://arxiv.org/abs/2410.07869)] [[project page](https://github.com/zjunlp/WorfBench)]
 - [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents*** *Harsh Trivedi (Stony Brook University) et al. ACL.* [[paper](https://arxiv.org/pdf/2407.18901)][[project page](https://appworld.dev/)]
 - [2024/03] **OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** *Tianbao Xie (The University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2404.07972)][[project page](https://os-world.github.io/)]
+- [2025/03] **Benchmarking Agentic Workflow Generation.** *Shuofei Qiao (Zhejiang University) et al. ICLR.* [[paper](https://arxiv.org/abs/2410.07869)] [[project page](https://github.com/zjunlp/WorfBench)]
+- [2025/05] **Terminal-Bench: A Benchmark for AI Agents in Terminal Environments.** *Mike Merill (Standford) et al.* [[project page](https://github.com/laude-institute/terminal-bench)]
 - [2025/06] **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2506.21805)]
+- [2025/08] **VimGolf-Gym: OpenAI Gym Style VimGolf Environment and Benchmark** *James Brown (Cybergod AGI Research)* [[project page](https://github.com/james4Ever0/vimgolf-gym)]
 
 -----------------------------------
 
